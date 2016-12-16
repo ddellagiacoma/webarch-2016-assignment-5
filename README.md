@@ -113,4 +113,4 @@ including the input desired class, the **BeanGenerator** class and the **bean** 
 However, this represents an example of the transformation from a POJO to a JavaBean using the
 **BeanGenerator**:
 
-![image](https://cloud.githubusercontent.com/assets/24565161/21271293/b014f278-c3ba-11e6-8a76-1a7327c2bad2.png)
+![image](https://cloud.githubusercontent.com/assets/24565161/21271353/faf233c8-c3ba-11e6-96b4-353e53e89729.png)
