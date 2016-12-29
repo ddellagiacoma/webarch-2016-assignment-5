@@ -98,7 +98,9 @@ the generated java file.
 ## 3. DEPLOYMENT
 The program can be started typing this in the command line:
 
-**java -jar BeanGenerator.jar**
+```sh
+java -jar BeanGenerator.jar
+```
 
 The program demands to type the name of the file that should be converted into a JavaBean, for example:
 
